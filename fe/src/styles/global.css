@@ -1,0 +1,9 @@
+html {
+  font-size: 10px;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
